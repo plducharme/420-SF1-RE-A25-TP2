@@ -56,7 +56,7 @@ exercice2 : 5%
 ### Affichage demandée pour la fonctionnalité #2 et #7
 ```
 Nom et Prénom : x y
-Tp 1 et Tp2: x y
+Tp1 et Tp2: x y
 Exercice 1 et Exercice 2 : x y
 Examen 1 et Examen 2 : x y
 Moyenne de l'étudiant : x
