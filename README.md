@@ -7,14 +7,14 @@ accepté.
 ## Contexte
 Un professeur veut gérer les notes de 5 étudiants. Pour chaque étudiant, on doit stocker dans des listes séparées : 
 
-- noms
-- prénoms
-- tp1
-- tp2
-- exercice1
-- exercice2
-- examen1
-- examen2
+- ```noms```
+- ```prénoms```
+- ```tp1```
+- ```tp2```
+- ```exercice1```
+- ```exercice2```
+- ```examen1```
+- ```examen2```
 
 Toutes les notes sont sur 100.
 
@@ -24,6 +24,7 @@ Toutes les notes sont sur 100.
 Message à afficher (exact) :
 
 ```Donnez les informations de l'étudiant X :```
+
 où x est la séquence de l'étudiant étant saisi : 1, 2, 3, 4, 5
 
 ### Format d'une saisie valide :
@@ -52,7 +53,7 @@ exercice1 : 5%
 exercice2 : 5%
 ```
 
-### Affichage demandé pour la fonctionnalité #2 et #7
+### Affichage demandée pour la fonctionnalité #2 et #7
 ```
 Nom et Prénom : x y
 Tp 1 et Tp2: x y
